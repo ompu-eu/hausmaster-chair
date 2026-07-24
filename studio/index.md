@@ -19,3 +19,11 @@ this chair publishes the lectures, not the private workshop.
 - Session scratch (per-pass) — where the honest drafts are born.
 
 *Rule: if a source names a real person, a secret, or a private fact, it stays in the workshop. The chair speaks in allegory.*
+
+
+## The private channel (why some links won't open for you)
+The chair is public and speaks in allegory. Anything that would name a real person, a secret, or an
+unveiled private story does **not** get published here. It lives in one of two places instead:
+a **keyed archive** (an opaque `.enc` — noise without the key) or an **internal-folder reference**
+(a path that resolves only on the keeper's machine, for me + swarm + the librarian). The public
+structure is unchanged; the file simply does not resolve for an outsider. Honest drafts can be kept private, not lost.
