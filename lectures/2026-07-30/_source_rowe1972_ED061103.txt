@@ -1,0 +1,2065 @@
+DOCUMENT RESUME
+ED 061 103
+AUTHOR
+TITLE
+
+PUB DATE
+NOTE
+
+EDRS PRICE
+DESCRIPTORS
+
+IDENTIFIERS
+
+SE 013 582
+
+Rowe, Mary Budd
+Wait-Time and Rewards as Instructional Variables:
+Their Influence on Language, Logic, and Fate
+Control.
+Apr 72
+32p.; Presented at the National Association for
+Research in Science Teaching, Chicago, Illinois,
+April 1972
+MF-$0.65 HC-$3.29
+Educational Research; Ele entary School Scie ce:
+*Instruction; Interaction Process Analysis;
+*Questioning Techniques; *Research Reviews
+(Publications) ; Student Characteristics; Teacher
+Characteristics
+NARST
+
+ABSTRACT
+Elementary science teachers allow an average of one
+second for a response to a question, and follow a student response by
+a comment within an average of nine-tenths of a second. When these
+two "wait times" are extended to three to five seconds, a number of
+changes occur in student variables. There are increases in the length
+of the response, the number of unsolicited appropriate responses,
+student confidence, incidence of speculative responses, incidence of
+child-child data comparisons, incidence of evidence-inference
+statements, frequency of student questions, and incidence of
+responses from "relatively slow" students. The number of teacher
+questions which do not elicit a response decreases. Teacher
+characteristics change as wait-times increase. There is an increased
+flexibility of teacher responses, the questioning pattern becomes
+more variable, teacher expectations for performance of students rated
+as "slow" may change. These generalizations are based upon five years
+of study of video-taped lessons or micro-teaching sessions. These
+studies also suggest some research hypotheses concerning the effect
+of verbal reward and wait-time on students' perceptions of their
+degree of environmental control: low incidence of verbal reward and a
+long wait-time may reduce fatalism. (Author/AL)
+
+ABSTRACT
+TITLE:
+
+WAIT-TIME AND REWARDS AS INSTRUCTIONAL VARIABTRS:
+ON LANGUAGE, LOGIC, AND FATE CONTROL.
+
+AUTHOR:
+ADDRESS
+
+Mary Budd Rowe
+Teachers College
+Columbia University
+New York City, New York
+(212)
+
+THEIR INFLUENCE
+
+10027
+
+U.S. DEPARTMENT OF HEA
+EPUCATION & WELFAR
+OFFICE OF EDUCATION
+THIS DOCUMENT HAS BEEN
+DUCFD EXACTLY AS RECEiVEr
+THE PERSON OR ORGANIZATIOI
+INATINO IT POINTS OF VIEW 0
+IONS STATED DO NOT NECES
+REPRESENT OFFICIAL OFFICE C
+CATION POSITION OR POLICY
+
+870 - 4042
+
+MEETING:
+
+National Association for Research in Science Teaching
+1972
+April
+
+ABSTRACT:
+
+The paper summarizes work of five years on influence of a
+variable called teacher wait-time on development of language
+and logic in children taking part in elementary science
+programs. Analysis of over 300 tape recordings showed mean
+wait-time to be on the order of one second. After a teacher
+asks a question students must begin a response within an
+average time of one second. If they do not the teacher
+repeats, rephrases or asks a different question or calls
+on others. A second potential wait-time is involved. When
+a student makes a response, the teacher reacts or asks
+another question within an average time of 0.9 seconds.
+When mean wait-times of three to five seconds are achieved
+through training, analysis of more than 900 tapes shows
+changed values on nine student variables: 1. The length
+of responses increases. 2. The number of unsolicited but
+appropriate responses increases. 3. Failures to respond
+decrease. 4. Confidence as reflected in decrease of
+Incidence of speculative
+inflected responses increases. 5.
+responses increases. 6. Incidence of child-child
+Incidence of evidence7.
+ccmparisons of data increases.
+inference statements increases. 8. The frequency of
+Incidence of responses
+9.
+student questions increases.
+from students rated by teachers as relatively slow increases.
+Servo-chart plots of recordings show that students discussing
+science phenomena tend to speak in bursts with intervals of
+three to five seconds between bursts being fairly common.
+The average post-student response wait-time of 0.9 seconds
+apparently intervenes between bursts to prevent completion
+of a thought.
+Over time a classroom on the prolonged wiat-time schedule
+takes on other properties. Three teacher variables change:
+Response flexibility scores increase: 2. Teacher
+1.
+questioning pattern becomes more variable: 3. There is
+some indication that teacher expectations for performance
+of students rated as relatively slow improves.
+A model which involves the relation of wait-time and reward
+as input variables to language, logic, and fate control as
+complex outcome variables is discussed.
+
+1
+
+WAIT-TIME AND REWARDS AS INSTRUCTIONAL VARIABLES,
+THEIR INFLUENCE ON LANGUAGE, LOGIC, AND FATE CONTROL'
+bY
+
+Eary Budd Rowe
+Teachers College, Columbia University
+New York, New York
+
+"The paradigm observer is not the man
+who sees and reports what all normal
+observers see and report, but the man
+who sees in familiar objects what no
+one else has seen before."
+-Norwood Russell Hanson
+in Patterns of Discovery
+Introduction
+
+All of the major elementary science programs extant today were designed
+to provoke children to inquire about relationships among natural phenomena.
+All of them provide situations meant to be suitable for the development in
+children of certain skills and a viable knowledge structure. In spite of
+provocative stimuli, the people who prepared the programs had to admit that
+the amount and quality of inquiny actually occurring fell uell below expectations. While some people connected with the projects blamed the situation
+on the teachers' lack of science knowledge, certain observations made by me
+and those working in my group made us think that this generally held explanation was too superficial. The evidence we had: though fragmentary, did not
+support that view.
+We found, for example, that children taught by teachers with considerable
+training in one of the programs did not exhibit substanially different rates
+of inquiry from those taught by teachers with less exposure to the programs.
+Neither were we able to distinguish different patterns of inquiry in one program as compared with another. With a few marked exceptions which will be
+discussed shortly, the quality of discourse tended to stay,at elow level and
+the pattern of interchange between teachers and children still more slosely
+resembled an inquisition than a joint investigation or a reasonable conversation.
+That we could further discount the "lack of knowledge" argument as a
+primary factor seemed to be demonstrated in data from two conferences funded
+by the National Science Foundation in which we had the opportunity to compare
+the instruction of children as carried out by a total of 54 scientists and.
+
+/Work described in this paper is being supported by grants from the Alcoa
+Foundation, International Nickel Company of Canada, Shell Companies Foundation,
+The Xerox Corporation, The Mary Duke Biddle Foundation, and the Hebrew
+Technical Institute.
+In addition, a post-doctoral appointment at New York University had
+permitted the author to spend more time on investigations than would be possible
+when carrying a normal professional load. The appointment was funded through
+the United States Office of Education.
+
+2
+
+science ed cators with instruction as conducted by a sample of classroom
+teachers. It was clear that some factors other than knowledge differences
+must be at work because the patterns of questions and responses were remarkably
+alike. To make that determination, we conceptualized the classroom as a twoplayer system consisting of a teacher and the collection of students (treated
+as the other player). Teachers had four kinds of verbal moves available to
+them--structuring, soliciting, responding, and reacting or evaluating. In
+theory, students engaging in inquiry would have the same set of moves available
+,to them. By simply categorizing the sequence of moves and plotting them
+approximately on a time line, the patterns of interaction could be clearly
+displayed. Figure I, for example, ahows what the "inquisition" looks like.
+It is characterized by a rapid question-answer sequence with the solicitation
+coming usually from the teacher. Figure II, on the other hand, shows what an
+inquiry pattern or a conversational pattern looks like. In addition, we found
+that whatever pattern the teacher exhibited when working with four children
+closely resembled the pattern displayed when carrying on a discussion with a
+whole class of children.
+The fact that the appearacne of one or two graphs made from recordings
+of micro-teaching sessions mirrored the form found for each teacher when working with a whole class suggested that size of groups could not be a major
+factor in determining whether an inquiry pattern would or would not develop.
+Thus we are left with none of the usual remedies for improving inquiry. We
+could not blame its low incidence on lack of materials, or on lack of knowledge
+on program or on group size, at least net within rather broad limits.
+Wait-Time
+
+After visiting and recording examples of science instruction carried
+out in classrooms located in suburban, urban, and rural areas, it finally became clear that while different curricula served as the vehicle of instruction,
+almost all of the discourse had one stable property. With the exeption of a
+few individuals (three in two hundred recordings) the pace of instruction
+was very fast. Teachers allcwedchildren an average time of only one second
+to start an answer to a question. If children did not begin a reply within
+one second, teachers usually either repeated the questions or called on others
+to respond. When children did respond, teachers usually waited slightly less
+than a second (average of 0.9 seconds) before commenting on the response,
+asking another questions or moving to a new topic.
+In the few classrooms where inquiry was going on, the discourse was
+marked by the appearance in the speech of the children of speculation, conversational sequences, alternative explanations, and arguments over the interpretation of data. Such classrooms differed from the others in one respect;
+the average wait-times seemed to be slightly in excess of three seconds. It
+appeared that more of the desired inquiry behaviors occurred in classrooms
+where teachers had longer wait-times.
+One other observation connected with wait-time caught our attention.
+We asked teachers to tell us who, in their judgements, were their five best
+and five worst students. When we examined the amount of wait-time given on
+the average, to each group we found that the top five get nearly two seconds
+to answer while the bottom five get slightly less than one second (0.9 seconds).
+This last small piece of inquiry alerted us to another variable, reward
+frequency, to which we had given no attention. The amount of sanctioning
+behavior directed toward the two groups differed. The bottom-ranked children
+
+3
+
+3
+
+actually received more overt verbal praise than the top-ranked children but
+it was difficult to know with certainty what was being rewarded. The top
+groups received relatively less evaluative comment from their teachers but
+the rewards were usually more pertinent to the responses made by the children.
+The bottom groups gathered both more praise as well as more negative comment
+but its intent was far more ambiguous. It seemed that teachers rewarded the
+top groups for correct responses but they rewarded the bottom groups for both
+correct and incorrect responses. Presumably the intent of some of this reward
+behavior must be to encourage participation.
+
+We guessed that a clear teacher expectation pattern develops early in
+the history of each classroom. Differences in the wait-time and reward patterns
+administed to children ranked at the top as compared with those at the bottom
+suggest that teachers unconsciously act in such a way as to confirm their
+expectations.
+So we came to focus our attention on two imput variables, wait-time and
+reward. This paper will focus on wait-time but it will be necessary to comment briefly on the possible effect of sanctions so the reader will understand why this variable had to be brought some what under control.
+
+Reward
+Exploration and inquiry require students to put together ideas in new
+ways, to try out new thoughts, to take risks. For that they not only need
+time but they need a sense of being safe. Sanctioning behavior, no matter
+how well intended, carries with it an implicit message: "Big brother will
+Judgement by an external source which often
+get you if you dontt watch out."
+behaves whimsically in the view of children cramps investigation.
+To grow a scientific think SYSTEM takes time end a great deal of shared
+experience, free of the notion of cheating and the fear of teacher reprisal
+in the form of verbal pats or paddles. It is in talking about what we have
+done and observed and in arguing about what we make of our experiences that
+ideas multiply, become refined and finally eventuate in new questions and
+experiments. It is in preserving for ourselves the right to be wrong that
+we gain courage to try out new ideas, to explore more alternatives, to
+objectively evaluate our own work as well as that of others. The new science
+programs depend heavily on an intrinsic rather than an extrinsic motivation
+model. Conceptual conflict is meant to drive inquiry along just as it does
+in the scientific enterprise.
+Ere begin to suspect then that at least when we wanted children to engage
+in problem solving behavior, in contrast to skill acquisition, wait-times
+High rates of rewardshould be high and reward schedules should be reduced.
+ing would undermine confidence and act as distractors. In addition, it
+might encourage premature termination of search, a disposition to choose
+the first alternative that comes to mind. Certainly it would discourrAle
+sharing of ideas between students since then someone else could walk off with
+praise for a performance first carried out by another child.
+
+4
+
+Simulation Studies
+
+In an attempt to understand something of the effects of reward and
+wait-time on problem solving behavior of students, two simulation studies
+were undertaken. In connection with our interest in reward, F.X. Lawlor
+gave a problem solving task to children under circumstances that simulated
+reward patterns common in classroomsaCWe group of children received overt
+verbal rewards on a random schedule. The random schedule comes closest to
+matching what had been observed to occur in classrooms. A second group of
+children received reward for correct responses, the pertinent reward condition.
+A third group of children received no overt verbal rewards as they worked.
+Lawlor found the problem solving efficiency of the group which received the
+ambiguous reward treatment to be significantly below the performance of the
+other two groups. Boys prospered in the no reward condition while girls
+fared slightly better on the pertinent reward condition. Lawlor's work lent
+impetus to our earlier supposition that in problem solving situations or inquiry situations, reward may function to distract students from the task.
+L. Ogunyemi carried out another simulation which had as its intent an
+attempt to learn something about the function of listening in discussions of
+simple physical phenomena. (2) Students brought up under a fast wait-time
+schedule coupled with an ambiguous reward schedule probably do not get much
+from listening to each other. They are trained to hear the te9cher, if they
+hear anything. When students are asked to report what they cbserve, as is
+the case in classroom discussions about science phenomena, those who actually
+do the talking may get some reinforcement. Does discussion benefit them or
+the rest of the class members?
+Ogunyemi exposed individual students to a matrix problem that involved
+the use of colored dowels of different dimensions. One treatment group
+examined the matrix but did no talking about it. In addition to whatever
+they observed on their own they heard a tape recording of other students
+talking about their observations. Another treatment group , after observing
+the matrix, heard a teacher and students discuss it. Members of the third
+treatment group were encouraged to state all their observations. All three
+were then given a set of tasks to do involving the matrix. Ogunyemi thought
+that the opportunity to verbalize might improve the scores of students but
+he did not find that to be the case. What he did find was what we had suspected, namely, that stndentswitha history of fast wait-time instruction
+tended to ignore information supplied by other students. (Tape recordings
+had previously been made in classrooms from which Ogunyemi's subjects came.)
+Again males responded womwhat differently from females. The females apparently listened tothe teacher talk but not to the talk of other students.
+Males paid no attention to any source of verbalized information, if performance
+on the test tasks is taken as the indicator.
+Circumstantial evidence leads to the inference that conversation in
+which students build on each other's ideas cannot develop in classrooms
+operated on a fast wait-time schedule.
+
+5
+
+Servo-chart Plots Show Several
+Species of Wait-Times
+In micro-teaching situations we began to examine what happened when
+Since our earlier work showed
+wait-times were experimentally manipulated.
+that a group of four or more students makes a satisfactory model of the
+speech patterns to be expected of whole classes, this convenient approximation of the classroom discourse allowed us to gather a great deal of data
+fairly rapidly. Analysis of audio-and video-tapes immediately presented
+another problem to us. It became clear that our estimates of wait-time
+were too high. By the time the stopwatch was punched the discourse had
+moved on. We needed to find another way to measure wait-time that would
+not be hampered by the fact that motor responses (those necessary to
+actuate the clock) are very slow in comparison to mental responses.
+This problem was partially solved by delivering the sound into a
+serve-chart plotter. With a rectifier inserted between the tape recorder
+and the plotter, the needle could be made to track horizontally when there
+By running the
+were silences. The paper for the plotter is calibrated.
+the plotter as fast as it will go, each calibration comes to represent one
+second. As Figure III shows, the incidence of pauses as long as one second
+in a classroom where the teacher is not alerted to wait-time is very small.
+The height of the peaks simply indicates the amplitude of sound generated.
+One other interesting aspectof the plots is worth noting before going on.
+Children generate speech at a slower rate, on the average, than teachers do.
+This will be reflected in the plots by the width of the curves somewhat
+below the peaks.
+Close examination of the servo-chart plots explains to some degree the
+dynamics involved in some of the outcome variables described below.
+
+6
+
+Species of Wait-Time
+a.
+
+The two-player model:
+
+(See figures
+
+and
+
+Instruction was conceptualized as a game in which there are two
+players. The teacher is one player and the set of students constitutes
+the other player. Four kinds of moves are available to each player.
+1.
+
+Structuring in which a player gives directions, states
+procedures, suggests changes. e.g., "Let's put the
+thermometer in the ice water.
+.g., "Why
+
+2.
+
+Soliciting in which a player asks a question.
+do you thing that happened?"
+
+3.
+
+Responding in which a player answers a solicitation or
+responds to a structuring suggestion or builds on the
+(e.g., "When I
+response of another player or reports data.
+down
+to 4 degrees.")
+put the thermometer in ice water it went
+
+4.
+
+5.
+
+Reacting in which a player evaluates statements made by other
+(e.g.,
+players. It includes verbal rewards and punishments.
+etc.)
+as
+well
+as
+"good," "fine," "OK," "that is not right,"
+because
+the
+appraisal (That doesn't work the way you said
+light is on.").
+Wait-time locations - Examination of servo-chart plots show
+that wait-times during discussions may occur in the following
+locations:
+After a teacher move.
+a.
+After a student move
+b.
+In the body of a student move
+c.
+
+Student talk, especially attempts at explanations, frequently
+comes in a series of bursts separated by pauses that often equal
+or exceed three seconds.
+Figures 3a and _b_show the locations of the potential pauses
+in a sequence.
+Figure III shows one example of a servo-chart plot typical of
+hundreds of tape-recordings where wait-times are short, i.e.
+under three seconds.
+Species are on the order of one to two seconds or less. All the
+interactions go on very rapidly. Student responses tend to be short,
+It turns out that when students
+averaging 6 to 10 words, and fragmented.
+are allowed to speak to each other, as they do in a labOatory setting, or
+as they do when there si sufficient wait-time of species #2, allowed by the
+teacher, or as we have allowed it under experimental conditions, their
+speech tends to come in bursts. That is, any given child will put out an
+idea and in the body of his discourse there will be pauses which are often
+(See figure
+well in excess of one second, more like three to five seconds.
+phrase-like
+rather
+IV) Apparently the reason for the high incidence of
+with
+short
+average
+waitthan propositionalresponding that marks classrooms
+the
+teacher
+between
+the
+times is brought about by the intervention of
+Examination of data from the chart plots caused a shift in
+speech bursts.
+
+7
+
+7
+
+our focus to the second wait-time the post-student response wait. Prior
+to the use of the servo-chart plotter we had paid most attention to the
+first species of wait-time, the amount of time teachers gave to students to
+begin an answer. The chart plots showed us that the second wait-time, the
+one which is potentially available after a student response, might account
+for even more variance in the outcome variables. If the teacher "held on"
+after a speech burst, then the incidence of extended explanation and the
+occurrence of alternative interpretations tended to increase. Figure rv,
+shows what typical speech bursts look like when delivered by a student
+trying to explain something he experienced with his science materials if
+he is left uninterupted. Mapping experience into language is an arduous
+process. Cutting off those pauses probably discourages expression and
+practice of propositional thought.
+When a teacher first begins to experiment with wait-time species 2,
+The teacher tends to
+post student response is difficult to influence.
+react very quickly and so do students. Students call out answers. There
+are few examples of what might be called a discussion (conversation) in
+which students respond to ideas introduced by other students. (See the
+discussion on training techniques.) After a time, however, this pattern
+Figure V should
+gradually changes and the between-student pauses increase.
+be contrasted with Figure III. It illustrates both the change in species 2
+pauses and the increase in the length of student statements. (See Appendix
+A for a sample of transcript which illustrates the conversational rather
+than the inquisitional mode.)
+Student and Teacher Outcome Variables
+In the series of investigations to be described below the following
+outcome variables became the focus of attention.
+a.
+
+Student Outcome Variablim
+1.
+
+The length of student responses increased. Under a fast
+schedule, responses tend to consist of short phrases and
+rarely exhibit explanation of any complexity. Data from
+the chart plots suggest that the second wait-time, when it
+is prolonged, contributes measurably to the appearance of
+longer statements.
+
+2.
+
+The number of unsolicited but a.proariate student responses
+ncreases. This outcome is more responsive to the second
+hen the first wait-time, but is influenced by both.
+Failures to ressond decreased.
+
+"1 don't know" or no responses
+
+were often as high as 3 normal classrooms, i.e., in
+classrooms where the mean wait-time fell at one second or less.
+This outcome is more susceptible to manipulation by the first
+wait-time, the pause which the teacher allows before calling
+on anot.iler student or repeating the question.
+(It also
+happens to be responsive to reward incidence.)
+
+8
+
+b.
+
+4
+
+Confidence as reflected in fewer inflected responses increased.
+Under a fast schedule, responses tend to be phrased as though
+the child were saying, "Is that what you want/" In the middle
+of a prolonged fast sequence you can ask a child his name and
+it will not be unusual to have him respond with a question mark
+in his tone. This confidence indicator, inflected responding,
+is also susceptible to the reward variable. As reward increases
+so does the incidence of inflected responses.
+
+5.
+
+The incidence cf speculative thinking increased.
+influenced by both classes of wait-times.
+
+6.
+
+Teacher-centered show and tell decreases and student-student
+comparing Increases. Under a fast schedule and a high reward
+or sanctioning schedule, children "stack up" waiting to tell the
+teacher. There is very little indication that they listen to
+each other. This variable will not be examined in detail in
+this paper since it seems to be influenced as much by the
+reward pattern as by the pacing.
+
+7.
+
+More evidence followed by or preceded by inference statements
+occurred. Under a fast schedule, the incidence of qualified
+inferences is extremely low. When the second wait-time is
+lengthened this outcome variable changes in a desired direction.
+
+8.
+
+The number of questions asked by children increased and the
+number of experiments they proposed increased. It is a well
+established fact from classroom interaction studies that
+students do not ask questions very often. When they do, the
+questions are usually for clarification of procedures and
+are rarely ever directed at other students. This outcome
+variable seems to be susceptible to both classes of wait-times.
+
+9.
+
+"Slow" student c ntributions increased. Under a fast schinidle
+most responses came from a particular faction of the class.
+When wait-times were increased, the sources of response
+became more varied. Interestingly, this outcome gradually
+(Although we
+(apparently) influences teacher expectations.
+have not had time to investigate it in any detail yet, it
+seems to be both surprising and rewarding to the teachers
+that students who do not usuallY respond as readily begin to
+do so.
+
+This is
+
+Teacher Outcome Variables
+Once wait-time is changed and the behavior is stabilized for
+a period, certain characteristics of teacher input variables change.
+They are regarded here as outcome variables because they are influenced by the wait-time factor.
+
+9
+1.
+
+Teachers exhibit greater reseonse flexibility as indicated by the
+occurrence of fewer discourse errors. Under a rapid schedule, the
+normal situation obtaining in classrooms, the probability that a
+detectable discontinuit- in the discourse occurs increases.
+Conversation does not build into structural propositions. Instead
+the sequence of discourse resembles a smorgasbord line in which
+everyone goes along commenting on what he passes and picks up but
+nobody pays any attention to or gives any indication that he has
+heard the comments of others. If a teaching machine asks a
+question and a student responds wial something that is not in
+storage, the machine either goes on to the next question as though
+nothing happened or it cycles back and repeats, sometimes with
+progressive cuing. In either case a "discontinuity" is scored
+against the discourse. Our tapes suggest that frequently the
+teacher on a fast schedule achieves a less favorable flexibility
+score than does a moderately good computer program. At least the
+computer program has the advantage of leaving the response time
+up to the student. The flexibility score increases with increases
+in wait-times. It is computed by simply counting the mismatches
+between a student statement and a teacher response or reaction.
+See appendix A for an example of discourse in which there are
+mismatches.)
+Number and kind of teacher questions changes.
+a.
+
+The total number of questions decreases per a fifteen minute
+Prior to wait-time training it Was not usual to
+interval.
+find as many as seven to ten questions asked by the teacher
+per minute: The mean number of questions averages between
+(Inner city rates tend to be
+two and three per minute.
+slightly higher than suburban rates. Samples of tape
+recordings made in the Cumberland Mountains, in Louisiana
+and in North Carollne show mean rates of 2.2 questions per
+minute.) As wait-times increase the rate of questikaing
+For teachers who have achieved criterion wait-times
+drops.
+of three seconds or longer mean question rates tend to
+approach 0.4 per minute. This follows from the fact that
+student responses become longer; unsolicited student responses
+increase; there are more pauses between speakers as well as
+within the speech of speakers.
+The net variability in teacher questions increases as
+teachers achieve criterion wait-times of three seconds.
+Figure V. shws how the pattern of questions changed for
+a sample of 74 teachers who achieved criterion wait-times
+of three seconds or longer.
+
+Teacher expectations for erformance of certain children seem to
+change. In micro-teaching situations, we grouped children whom
+teachers did not know into pairs consisting of two children rated
+by their school as high verbal or two rated as low verbal or we
+paired one high with one low verbal. We told the teachers they had
+one of these combinations and the task was to do some science and
+employ a longer wait-time; then they were to judge with which kind
+of combination of children they were working. At the end of 20
+minutes they made their judgements. They tended to make the
+
+10
+
+following kinds of errors:
+a.
+
+c.
+
+They rated a high and low combination as two highs;
+They tended bo rate two highs correctly most of the time
+but occasionally rated them as a high and a low;
+Two high verbals were occasionally (about 15% of the time
+evaluated as a high and a low.
+
+The fact that 26 teachers who identified their five best and five
+poorest students gave the best students more time to reply to questions
+leads one to suspect that the relationship of wait-time to expectations
+should be investigated in more detail. At the moment all we have
+accumulated over the last five years are unsolicited comments from teachers
+on longer wait-time schedules that members of the bottom group perform in
+new and surprising ways. That teachers may modify expectations gradually
+is indicated by comments about a student such as, "He has not done anything
+like that before. Maybe he has a special aptitude for science." It may
+be useful to study the influence of wait-time and rewards on teacher
+expectations in a more systematic way. We have not had an opprotunity,
+however, to discover whether the effect on expectations is general or how
+long it persists. Neither do we know how it may change the real performance of the students rated at the bottom of the class, gtven that the
+pattern of responding could be sustained.
+
+Types of Wait-Time Investigations Pursued.
+
+Over the last six years the investigations of wait-time have been
+quite varied in form as befits applied research where the primary goal
+is producing desirable outcomes in operating systems.
+In vitro studies - The variable was identified first through regular
+observations of 36 primary grade classrooms in six snhools in which the
+Science Curriculum Improvement Study (SCIS) was being taught. Six (+) 4-ape
+recordings were made in each of the rooms during the years. (A total of
+103 tapes) Once the fact of short wait-times, high question frequency and
+rewards was recognized it became a metter of interest to determine how
+general the phenomenon was.
+It could be the case, after all, that some.thing
+about SCIS prompted the inquisitional pattern or that the pattern was
+unique to primary grades or that speech in the region of the six schools
+(New York and New Jersey) was always fast-paced.
+In the following year
+we collected 84 tapes made in classrooms scattered around the country
+where SCIS as well as other science curricula were being taught. Wait-times
+typically fel) below three seconds. A sample of 34 tapes made of fourth
+grade classrooms showed mean wait-times to 1.3 seconds and only one outcome
+variable to be significantly different. The mean length of student responses
+was 14 rather than 8 words. Thus it seemed safe to infer that short waittimes were not localized in forst and second grade classrooms. In addition
+there are accumulated a miscellaneous collection of tapes sent by teachers
+who have begun to experiment on their own with the wait-time veriable. In
+recent years tapes of fourth, fifth and a few high school groups show mean
+
+11
+
+11
+
+wait-time- to be well under 3 seconds, ranging from 1 second to 2.8
+seconds.
+Micro-studie - In order to study the influence of prolonged waittimes which did not seem to be occurring with sufficient frequency in natural
+settings a series of micro-studies was begun. These took two forms:
+a.
+
+The staff worked with small groups of students, finally
+settling on four as producing a reasonable facsimile of
+a classroom. Here the effort was to increase wait-times
+and to study the effect on the outcome variables described
+Students
+earlier. Both audio and video tapes were used.
+came from different grade levels and the lessons were
+selected from various curricula. Here the effort was to
+attempt to identify the relative influence of the two
+species of wait-time, the pause occurring after a
+solicitation and the pause following a student response. ,
+We attempted to manipulate these independently. Thus the
+same lesson would be taught to different groups of children
+but the sequence of treatments would be as follows.
+Treatment I
+Treatment II
+Treatment III
+Treatment IV
+
+b.
+
+Standard Wait-times
+Wait-time #1 long, #2 short
+Wait-time #1 short, #2 long
+Both wait-times long
+
+A pool of six lessons were prepared. 96 teachers engaged in
+a series of teach-twice cycles designed to get them to
+produce criterion wait-times of three secondo. They each
+taught the same four students in each cycle.
+
+In order to minimize the i fluence of sequence of lessons, the six
+lessons were grouped into three sequences. One third of the group did
+each sequence. This decision would make it safer to infer that differences
+on the outcome variables, if there were any, could be attributed to the
+influence of the wait-time changes. The treatment sequence went as follows:
+Base line tape. No instruction on wait-times prior to taping.
+Play back discussion of wait-time. Portions of the tape
+transcribed by the teacher.
+b.
+
+Tape 2. Wait-times and outcome variables discussed.
+Portions of the tape transcribed by the teacher
+
+c.
+
+Tape 3. Analyzed and techniques for getti g control of the
+See training suggestions
+post-student wait-time discussed.
+described later.)
+
+e.
+
+1222_21.
+
+Analyzed in the same way.
+
+Tape 5.
+
+Analyzed in the same way.
+
+12
+f.
+
+Tape 6.
+
+Analyzed.
+
+All tapes were transcribed, coded. Wait-times were measured, the
+outcome variables identified and their values determined.
+Twelve teachers with criterion waitReturn to the classroom times in the teach-twice cycles were studied and given help in the
+classroom. For a period of one year observations and tape recordings
+were made at approximately two week intervals (once a week for the
+In addition four
+first four weeks and then at longer intervals).
+other teachers elected to study the influence of wai;-time in their
+own classes and to supply us with tapes and transcripts. A total of
+74 tapes were accumulated in this phase.
+Analyzing Transcripts
+Figure VII a and b show a typical analysis of a transcript. In
+addition, the questions woald be categorized according to two systems,
+one modified from Ashner and Gallagher (3) and the system developed by
+T.W. Parsons (4). The primary objective was not to study questioning per se,
+namely as an input variable, but rather to study teacher questions as an
+outcome variable. We were asking whether the pattern of question asking
+spontaneously changes as a result of increases in wait-time.
+The Aschner and Gallagher categories were five in number:
+1.
+
+Routine questions concerning procedures and structuring of
+discussion.
+
+2.
+
+Cognitive memory questions
+
+3.
+
+Convergent questions requiring the analysis and integration
+of given or remembered data.
+
+4.
+
+Evaluative questions.
+
+5.
+
+Divergent questions.
+
+The Parsons' categories used were the following:
+1.
+2.
+3.
+4.
+
+Rhetorical questions
+Information questions
+Leading questions
+Probing questions
+
+The latter categories proved more useful since they could be identified
+more easily by teachers and coding required less interpretation of intent.
+to 84%. For
+(Intercoder agreement for Ashner and Gallagher varied from 7
+Parsons system agreement varied from 76% to 94%.)
+
+13
+
+13
+
+-13-
+
+Computation of Mean Wait7Time
+
+As Figures 3a and b show' pauses can occur in three locations. Waittimes for each of these locations were recorded separately. The sum of
+seconds for each species of pause was divided hy the total number of occurrences
+for that species. This has the effect ofwaighting each category according
+to its frequency of occurrence. The overall mean wait-time was then computed
+from these means.
+The studies summarized in this paper as well as the one reported by
+Garigliano show mean wait-times prior to training to be on the order of one
+to two seconds. Garigliano did not succeed in getting any of the people in
+his training group to criterion of three seconds or longer. However, his
+work verifies that most of the outcome variables are as described for waittimes which are short.
+Values of the outcome variables begin to shift in a favorable direction
+once mean wait-times equal or exceed three seconds. (See, for example, Table
+Classes which are maintained on criterion for prolonged periods gradually
+I )
+change in a number of characteristics. Figure VIII shows the kinds of shifts
+typical of the 12 classes for which recordings were made over a period of 18
+to 21 weeks. It should be noted, however, that in the second or third week
+there is a tendency for teachers to regress on wait-time. Apparently a
+gradual 'role shift occurs for both teachers and students. During this adjustment stage teachers will complain that they can no longer decide when to
+intervene. Once through this period, however, criterion times are generally
+sustained. Figure IX illustrates the set of inter-dependent relationships
+which seem to be involved. This model requires considerably more long term
+investigation. At the moment it serves to retind us that we are discussing
+a system which gradually changes over time on a number of dimensions.
+SOme Related Variables In Need
+of Further Research
+
+1-The model which is governing the research is shown in Figure IX.
+includes input and output variables.
+
+It
+
+.
+
+1.
+
+Process Facilitation
+
+This phase of our work is not much developed. In response to the changed
+dynamics in classrooms where teachers are working under schedules of low
+rewards and extended wait-times, role relationschange. Certain kinds of
+decisions that formerTy belonged exclusively to the teacher shift gradually
+to the children. They now face the problem of getting the resources in
+their groups available, i.e., getting all the ideas out and evaluated. More
+organizational problems and interdependence stresses develop. The presence
+of science phenomena that provoke controversy creates a situation which is
+We
+nearly ideal for teaching children how to maximize group productivity.
+driven
+enterprise.)
+are operating on a model of science as an argument
+H. Wiethake has collected data for two years on samples of trained and
+untrained children. That work is still in progress but even in this preliminary stage of development, the data from Wiethake's tape recordings in
+AAAS-SAPA classrooms suggest a highly facilitative function is being served
+
+by process training. As a part of this stage of research, somc work should
+be done concerning direct training of students to take time both to frame
+replies and to hear other student. (For example, a preliminary indicator
+of the effect of such training is the frequency of interuptions.)
+2.
+
+Fate Control
+
+We are postulating a relationship between the factors of wait-time, reward, process facilitation and an outcome variable called "fate control".
+Fate control is defined as the belief that events that happen to you or that
+may happen to you are in some measure under your own control. Things you
+do now have some consequence for how things will be at another point in
+time which is not yet reached. To do that kind of believing requires some
+view about the nature of the world. A capricious world acts against the
+development of that belief. The scientist, for example, cannot tolerate a
+totally whimsical world. If the world were capricious, Prediction would be
+impossible. When prediction is impossible planning becomes irrelevant.
+For very young children the world is essentially whimsical. They do
+not see much connection between today's events and those that happened on
+some yesterday. To predict tomorrow's events with some kind of confidence
+is out of the question. Magic and the gods (the latter may include any
+authority figure) govern their world. A modern technological society could
+never develop nor could it survive by operating under such a conception.
+The conception of a chance, whimsical, potentially uncontrollable world
+eventually brings humans to the point of abdication from all attempts to
+cope or to change conditions around them. Planning becomes irrelevant since
+plans depend on some continuity between events and there is none under the
+"craps" model of the world. Think of fate control es a variable whose
+value depends on where in a continuum you stand. Suppose there are two kinds
+of people in the world, craps shooters and bowlers. The craps shooter lives
+totally in the present. If his luck is good he is happy and he feels "blessed".
+But the outcome of the game, given that the dice are honest, had nothing to
+do with him. When he shakes and rolls his fate rides on the dice. His
+future is left entirely to chance.
+The bowler, on the other hand, knows that there is some indeterminacy
+when he throws the ball but he also knows that according to how he analyzes
+the situation and acts, he can increase the probability of a favorable outcome. He can discover ways to improve his score. In fact, when the ball
+leaves his hand, in contrast to the situatuion with the craps player, it
+cArries a kind of "message" out into the environment from the player. The
+boialer stands relatively higher on fate control than does the craps shooter.
+He can dream of what might be and then begin to move toward it. But the
+craps shooter must live forever with what is. Childrenwho grow up under
+the craps model often arrive at the age of work unequipped to operate
+effectively as producers or consumers. From the work of Rotter, Lefcourt
+and others it appears that two people of comparable intelligence who stand
+at different positions on a fate control measure behave differently in
+problematical situations. The bowlers are more aggressive about collecting
+information and more insistent on exploring solutions than are the craps
+players. Bdwlers act as though there is a way out. Craps shooters act as
+if there is no way out.
+
+15
+-1
+
+It is a matter of some interest, then, to see what in the school
+environment contributes to the development of children who believe and
+act as though their fates were, at least in some measure, under their own
+control. At the moment our speculation can be summed up in the following
+way:
+
+In the presence of stimulating science materials, a low incidence of
+overt verbal rewards during inquiry sessions, protracted wait-times, and
+with some facilitation training, children who are craps shooters can become
+bowlers. At least that is an hypothesis worth evaluating.
+The pertinence of the low reward schedule to the fate control variable
+should be obvious. If the usual classroom sanctioning behavior is both
+intense and whimsical, then the situation encouragas craps. If wait-times
+are short rather than long, the sense of powerlessnass that marks the craps
+shooter will be enhanced. Protracted wait-times, low overt verbal rewards
+and process facilitation training encourage development of bowlers. It is
+hoped that other researchers will join us in finding ways to operationalize
+the fate control variable.
+3.
+
+Personality Variable
+
+There has been some suggestion that a personality variable may be
+involved in the wait-tim shift. One might postulate that persons scoring
+high on a dogmatism scale would tend to exhibit shorter wait-times.
+
+Summary
+Figure IX illustrates the set of relationships postulated in this paper.
+Three input conditions, wait-time, reward, process facilitation influence
+the values of three output conditions, language, logic, fate control. The
+changed values of the output conditions, in turn, alter teacher expectations.
+As teacher expectations change the input conditions take on new values. So
+the system is potentially dynamic. This paper has focused primarily on the
+influence of the wait-time variable on nine outcome variables.
+
+16
+
+BIBLIOGRAPHY
+
+"The Minicourse as a Vehicle for Changing Behavior,
+Borg, Walter.
+The Research Evidence," Fax West Laboratory for Educational
+(Borg worked with older
+Research and Development, 1969.
+students hut found pauses to be below a 3-second criterion.)
+Garigliano, L.J. The Relation of Wait-Time to Student Behaviors
+Science Curriculum Improvement Study Lessons, Uhpublished
+Ed.D. dissertation, Teachers College, Columbia University,
+New York, 1972.
+
+"A Stuay of the Questioning Behavior of Teachers
+in the Science Curriculum Improvement Study Teaching the
+Unit on Material Objects." Unpublished Ed.D. dissertation,
+Teachers College, ColuMbla University, New York, 1968.
+
+Kondo Alan K.
+
+Lawlor, Francis X. "The Effects of Verbal Reward on the Behavior
+of Children in the Primary Grades at a Cognitive Task Typical
+of the New Elementary Science Curricula." Journal of Research
+in Science Teaching, Vol. 7, No. 4 1970, pp. 327-340.
+
+Lefcourt, Herbert, "Internal Versus External Control of Reinforcement:
+A Review. Psychological Bulletin, Vol. 65, No. 4, pp. 206-220,
+1966.
+
+Ogunyemi, Ebenezer 0. "The Effects of Different Sources of Verbalized
+Information on Performance at a Science-Related Cognitive Task."
+Unpublished doctoral dissertation, Teachers College, Columbia
+University, 1970.
+Parsons, Theodore W. Guided Self-Analysis System for Professional
+Development Education Series. 2140 Shattuck Ave., Berkeley,
+California, 1971.
+Rotter, Julian B. "Generalized Expectancies for Internal Versus
+External Control of Reinforcement." Psychological Monographs:
+General and Applied. Whole No. 609, Vol. 80, No. 1, 1966.
+Wiethake, Henry. The Use of Group Dynamics Training to Foster
+Verbal Interaction in the Elementary Science Classroom.
+Paper presented at the National Science Teacher Association
+Annual meeting, Washington, D.C., 1971.
+
+17
+
+17
+
+For descriptions of classroom interaction instruments referred to,
+see Volumes A and B of the Classroom Interaction Newsletter
+Mirrors for Behavior II: An Anthology of Observation
+Instruments, edited by Anita Simon and E. Gil Boyer, Spring,
+1970. Published by Research for Better Schools, 1700 Market
+Street, Philadelphia, Pennsylvania 19103.
+
+A cknowledvnent s
+
+Much credit is due to Dr. Francis X. Lawlor
+who has taken part in these studies since their
+inception. Graduate assistants and classi.00m
+teachers wl:o participated must also be credited.
+This kind of research is something done with
+people, not something done to them.
+
+18
+
+18
+
+APPENDIX A
+
+Some Training Techniques
+
+Certain habituated verbal signals tend to interfere with the
+post-student response wait-time (species 2 wait-time ). These
+need to be reduced or eliminated.
+1.
+
+Mimicry in chich teachers repeat portions of what
+students say.
+
+2.
+
+but
+Yes
+rejection of an idea.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+constructions which signal
+
+The command to "think" without providing either a
+pause or cues.
+Evaluative comments such as "fine," "good," "ok,"
+"right" following a student statement.
+
+b.
+
+As teachers move around the room working with groups they tend
+to keep up a constant flow of talk. Techniques which seem to
+help increase wait-times of both species are the following:
+1.
+
+Join the group with no comment at all. This is another
+version of wait-time. Become an observer of the phenomena
+the children are examining and talking about. Speak when
+you are able to make an observation or other statement
+about the system.
+Join the group at its eye level. Pull up a chair or stoop
+down but get down to the head level at which the children
+are working. The video-tapes show children turning away
+from phenomena to speak to a teacher who is standing. This
+disengagement is avoided by "join up" at the common head
+level.
+
+3.
+
+If it is necessary to ask a question, try to ',,void asking
+etc." Analysis of
+one that begins, "Why did you .
+tape recordings shows that the probability of getting a
+response to a question in this form is considerably less
+(approximately 30%) than if the same information was
+requested in some other question format.
+.
+
+19
+
+.
+
+4.
+
+Lose eye contact. At first children try to mediate their
+arguments through the teacher. The flow of discourse
+directly from one child to another increases when the
+teacher loses eye contact with the speakers.
+
+5.
+
+Make most comments, especially in the early stages of
+helping children to work collaboratively, on processes
+you observe going on between them. This process
+facilitation function need not be served exclusively by
+the teacher. The children can learn to provide the same
+service to their own work groups.
+
+One of the process facilitation techniques has a close analog with
+It has two or three stateskills being taught in the science program.
+ments in it, depending on conditions. The speaker says:
+"I observe
+
+X."
+
+Where Y is an inference based on the observation X, e.g., "I infer that you are not interested in what be has to say."
+
+"I infer
+
+"I feel
+
+Where X is any statement that he can make
+about the group, e.g., "I observe that someone interrupted Gregory every time be spoke."
+
+Z."
+
+Where Z is a statement about how the observa"I feel you are
+tion-inference feels to you.
+missing some good ideas."
+
+Some simple group skills training for children, seems to encourage
+productive discourse.
+
+c.
+
+Support for the change. At about the end of the second or
+third week, teachers experimenting with wait-times appear
+to go through a period of frustrating indecision. They
+cannot decide when to intervene. If they do not receive
+encouragement in this interval their mean wait-times tend
+4
+to dip back to pre-criterion values.
+
+20
+
+05
+
+P
+
+0,
+
+51
+
+Ct
+
+Fi
+
+CI
+
+C1(
+
+;11)i xlbq
+
+1)1
+
+ci
+
+015
+
+ILL'ij
+
+Notel
+
+STR
+
+sot.
+
+0 REA
+z
+
+The ":uwrsation",
+
+In this
+
+quisition, pattern, more of the weight of the
+moves falls below the, center line and the
+
+over all pattern exh. its more variety.
+
+above and below the line according to
+
+their relative frequency of occurrence
+
+in the usual classroom pattern.
+
+and the students do the responding.
+
+do most of the structuring and soliciting
+
+Teachers
+
+ing and reacting),
+
+(REA), and responding (RSP) are listed
+
+in contrast to the in-
+
+and react, to each othr's statements (respond-
+
+(SOL), structuring (STR) reacting
+
+soliciting
+
+experiments (stulcUring) or they converse
+
+The moves
+
+players.
+
+pattern, both players engale in all of the
+
+Figure II:
+
+kinds of moves. Stuts begin to suggest
+
+it ion"
+
+The heavy line separates the two
+
+The "ing
+
+FILMED FROM BEST AVAILABLE COPY
+
+NNIn TZalt-ti:Te fo,-, thin teaaber exceeds 3 e2o Pori-tion of tremserirt
+Ug.i DI 2iñ 7-'eStdCafg';S increvzes as triof.7,,r, the- melfoer of
+11C7
+
+801.1cited
+
+t arforeirroiate.
+
+Yesterday we did cv-.7,e
+
+the Wale print pansr ana
+
+UhFtt reaullt,s ca,u yo,;. see by looking at the varioua greuys papars:
+and whnt ever- hapmeed?
+C.
+
+Ar,y.
+
+yo w. d;..7,ntt want to do it noin
+
+tale All 1z:19.--1.1-0. let the Lb light hit it the drker it got. We
+5, 3. Xf it was 3
+had digTeFozt tiuie, moat u131'.1d tive was
+raintes tbat it wl.w; kept mder, it -marl 5 mialkace that cau
+between.
+C4
+
+Nell nu one of the tb.ings th
+
+cU (Ina o the 111he throe
+
+go alca:z with
+stt-ths of patep Ina tho r010.743:::'r0 dont sectz to
+naid Da71:14 incallze the 10, and the th:=.0e are the an:7,e
+
+aud tIle 5 is s
+C
+
+t disagr:.,e with
+
+In because Inut nhat Dmrid [aid was well
+
+i7:2;Ider longer dts gabs darke.72.; I support.> agree
+wben you hee9
+{1f7-n11,-,, afe with you at all,
+with Daveyr 1ZriT:1
+
+Ahr In 4h some caaes so-me people ctidzet aotLy know ubat
+to do ao Ah thsy eet7id've kTe,de a Akietakeo and rg.yhe put the
+i thet, in the Slt? light!, in no ppakz-tt3 -.4e. put them
+w2acle 3tL
+i7Il
+
+rea.11y tell that much.
+aza therafaI'e conld
+Well :r. tkark f CI1 :1 peint .A13 theres a tir,,e whtr.zei it gets the
+clarl;eatff, between 10 and 5 and then it 2eCri9 1.10 gat light.
+boosasie *alum are thingE thrre it does 3.00k 15.tt1e nghtez.
+
+C.
+
+than the five. Va one poj.z-Ltl. rrd ;just go213s1 ncg. but onz.1
+in between. that 3D2e7...)ably t-Quid be the daxtezt 0.1..ye6 there and
+gets li,glitor.
+tilen
+derft think It T:Os anyeezed to get dsrker as it was exposed
+to lightv beastize we did it wad. when we expose_ it to light
+the co1or cam off, but ulifn you put it in watir arad you let
+it trz-7 it got darker.
+re0_ly all of
+Wi, nor.,t of them lcok the wacra from heye.,
+tinTraz:, btrh most of thaw:s they' all look pretty
+
+0.
+
+I think it wan bocauue th e. zza lizht too if you hare a dull vz,
+light it woule...n't shcw up to nazb and if you .11ZWO it like a :real
+bright light it will react. more:, like it'll gt--3;ii a shade that
+daz'kere
+
+22
+
+FILMED FROM BEST AVAILABLE COPY
+
+C.
+
+Well, Xth ink
+
+c
+
+T dicsgTec with you hecaoi
+
+-iore time you have it ,Andor the light the
+darker the part, tho.t isn't vnder the light get3.
+uh it'
+
+the
+
+that i6 in
+
+si
+
+the liat gets
+C.
+
+to the
+I agree. with ICathy!, becsw4e how could anythiLa
+that like just isn"',1 in la light. What
+happen to the Ilaxt which :To in the light?
+
+p;=),zt
+
+disagree wit!...; Ne3Lneth t*cause Ah he sai.d. t. the part thc.t
+Was hideLen from the light got darker, thf.: paKi; that was In "che
+riot le.daen fraithc _ight.
+light got darkor
+
+le color that
+cause when
+
+Well I don't thin!:: the !ri'rer really afge;e6e1
+
+msoh I think it Wa8 just the lighl= that did
+took it out you could zoo the dtfferelce
+
+vady without
+
+putting it 1.11. the vater.
+
+Dia it act auTy drarkcr whola :?-ou put it in
+
+Well
+
+Well
+
+n7lt re11-7,1y.
+1711-1iha
+
+It just get2
+the water..
+
+C
+
+It
+
+311y is tru:s.
+
+little fetl of the wate l? when
+ts4.,s a litUe clearer.
+
+m put it im
+
+... whet, .T.t.Ithy said, mat
+
+thixg thct hap?ned with ours was whf.ultm .;ested ours
+heppenea
+it didn't Zook like anwti.
+mad we took it
+to it, and th.en when we p!rit it in tho da2,k mr,3 put a
+emd Ieft it over night it ;et =eh
+.
+
+darker the neIrt dfiw,.
+
+C
+
+Ni at it.
+
+Like today, whem 14,11
+
+e1I um, sera people walked around ulth the 2 ;rips while
+when
+they were gettIng ready t experiment. And 1;
+thea: put it in tl'.e light t'aey could of a .reee: been a
+little darker.
+bocarts.i: whenHwe lid
+agxce with
+7ted ,
+c,nd everzr2..ng. M when t.Te
+Ac? or it.
+white on the other
+ours turned tat like,
+
+Weil
+
+1.1.?
+
+And, lam, then v:hen we let;:, It over night it
+
+imed da0r,.
+
+C.
+
+Wall 1 diseuree with John, he said like hefor, the experiment
+any difference
+if we walked ermad with it, it woulchtvt
+if we didn't dip it into water say got paper 4wo brought
+An, does :1:t get
+it up from the art room inoldr. Wieth4...kes
+darker?
+
+et
+
+T diss.,-=ree with Sal because thats dierent kind of
+Yes
+paper 9a1. And it Eight hve am affect becaut:; we were
+keeping it In a hLok and it viv.s dark thero ane, :Is you were
+walking around the light could have affeetedii.; and tts not
+the s7,77e kInd of 7,)per as the normal papor-uz :3et out of
+cur notetscoko so I agree with Jbha.
+
+br
+
+FILMED FROM BEST AVAILABLE COPY
+
+waa 1.
+
+4'
+
+=,k:taka5
+
+vho
+"I:4;5'f -0-aex-aw
+
+;.,,Alk3
+
+.:-:ont:5,701nv
+
+FIGURE VI. A typical analysis of a transcript illustrates the high incidence co:
+Experime.it: Observing changes in a thermal system.
+Wai
+STUDENT
+S
+r.Rea.sol.Rs
+.tim
+Time
+ade
+eward Fifth
+Itcm Re,)eat
+Cl: Ice is melting.
+1
+The ice is melting. What
+T
+2
+1
+do we mean by melting?
+Cl,C2:
+Getting smaller,
+3
+T:
+Getting
+smaller, very good.
+1
+1
+4
+C2:
+Shrinking
+5
+Shrinking
+T:
+6
+C2:
+The
+ice is reducing.
+7
+The ice is reducing, that's
+T:
+1
+a good word, S, reducing.
+1Cl:
+And Oater is dripping and
+9
+15 sec
+the ice..(inaudible)
+C2:
+Oh,
+1 know what happens,
+10
+Well, when the ice is dripping it causes water vapor.
+Water vapor, good, that's
+2
+2
+11
+very, very good. Water vapor.
+what else? You both are looking at the hot bottte, the one
+with the warm water in it. What
+30 sec
+about ...(interrupted)
+1
+Cl,C2:
+Hot
+air,
+hot
+air,
+hot
+air.
+12
+Hot
+air.
+Why
+is
+there
+hot
+air?
+T:
+1
+13
+Cl: Because there is no space for
+14
+the new clean air to get in.
+1
+C2:
+No
+room for oxygen.
+15
+For Oxygen, that's right, you
+T;
+1
+1
+16
+see the hot air here.(Pcints
+to A) What about here?(Points
+:
+
+to B)
+
+C2: You don't see an
+
+17
+
+TOTALS
+
+9
+
+45 sec
+
+.45 sec of transcript; average wait
+time = 0.4 sec.
+
+0
+
+0
+
+0
+
+Students = 10
+
+10 ls
+
+ustrates the high incidence of mimicry and rewarding.
+1.7-ma1 system.
+
+TEACHER
+Wait
+STUDENT
+Str.Rea.Sol.Rsp.time S01.Str.Rea.Rsp.
+
+Time
+
+STUDENT
+t .Rea.Sol.Rs
+Rsp
+Rea/Sol
+
+1
+1
+
+Rsp
+
+1
+
+Rea/Rea
+Rsp
+Rea
+Rsp
+Rea/Rea/
+Rea
+Rsp
+
+1
+1
+1
+102
+
+1
+
+15 sec
+
+Rsp
+ipor .
+
+Rea/Rea/
+Rea/Sol/
+!Mr/Sol
+
+212
+
+apor.
+look-
+
+he one
+t. What
+30 sec
+air.
+1
+
+t air?
+e for
+n.
+
+1
+
+, you
+ints
+
+Rsp
+Rea/Sol
+Rsp
+
+RRsn
+Rea/Rea/
+Sol/
+
+'ointa
+R:
+
+45 sec
+.ge wait
+
+0
+
+0
+
+Students = 10
+
+10 lseo
+
+5
+
+2.
+
+Teachers = 21
+
+TOTAL MOVE&
+
+TEACY_ER
+
+1.Str.Rea.
+
+Specie #1
+
+P
+
+TEACHER
+
+A
+
+Specie
+
+TEACHER
+-----
+
+P
+
+A
+STUDENT
+
+TEACHER
+---------
+
+STUDENT
+
+FIGURE 3a.
+
+The location of potential pauses in a sequence of moves. As species
+2a and 2b increase in length, the probability of S-S-S-S sequences
+increases.
+
+Species #2b
+STUDENT
+
+FIGURE 3b.
+
+A
+
+TALK
+
+IN BURSTS
+
+Pauses in the body of student talk. Daring explanations, speech from
+a student often is delivered in bursts or clusters separated by
+pauses of from two to five or more seconds. (Also see Figure IV.)
+
+INPUT
+
+OUTPUT
+
+IWAIT TIME
+
+LANGUAGE
+
+REWARD
+
+SCIENO
+MATERIALS
+
+_1 LOGIC
+FATE CONTROL
+
+PROCESS FACILITATION
+
+FIGURE 9. Schema of relations between factors.
+
+27
+
+TEACHER
+EXPECTATIONS
+
+1 Second Pause
+
+100
+
+5 seconail
+
+ih this example, equals one second.
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Student Responses
+
+Paper is in calibrations
+through the machine. Each interval
+
+FIGURE ru. Servo-Chart plot of discourse
+in normal. classrooms.
+whose value is determined by how rapidly it is rolled
+
+EIM
+
+90
+
+100
+
+airM10
+
+TEACHER TALK
+
+90
+
+100
+
+FIGURE IV: Wait-time is increased over that shown in
+figure III.
+The area circled
+indicates a pause which does not appear to be one because the machine picked
+up the
+movement of a chair. One of the, mechanical problems yet to be solved
+is to find
+a. way to filter out such events.
+At the moment they are simply marked on the
+graph as they happen.
+
+(Ont. Studtnt)
+
+STUDENT TALK
+
+1111Mit....0
+
+Characteristic
+Post-Student
+Response
+Etraneous
+Wait-time
+Sound
+
+..
+
+20
+
+Note the long pauses,.
+Short wait-times prol,ably Interfere with
+the generation: of complete thoughts-
+
+F=RE IV ;:t-udz.nt cOnversation..
+
+=mg
+mmom
+
+?ft
+
+REMI
+
+z
+
+IMIP
+
+WIME
+
+mem
+
+100
+90
+
+80
+
+% Rhetorical (R)
+3
+% Informational (I) 82
+13
+% Leading (L)
+2
+% Probing (P)
+
+70
+
+TOTAL %
+
+100
+
+Mean number of
+questions per 15
+min of transcript
+
+38
+
+60
+50
+
+40
+
+N= 95 recordings
+30
+
+20
+
+10
+
+FIGURE VII. Typical distribution of question types asked by teachers prior to
+wait-timd-training.
+100
+90
+
+80
+70
+
+50
+
+40
+
+% Rhetorical (R)
+2
+% Informational (I) 34
+% Leading (L)
+36
+28
+% Probing (P)
+
+TOTAL %
+
+100
+
+Mean number of
+questions per 15
+min of transcript
+N = 84 recordings
+
+30
+20
+
+10
+
+FIGURE VIIb. Typical change in distribution of ques ion types once criterion
+wait times of three seconds or more are attained and sustained.
+
+Mean frequency
+for a 15-min.
+sample
+
+1
+
+4
+
+5
+
+6
+
+4.2
+
+3.9
+
+4.2
+
+2
+
+(Pre-criterion)
+3.2
+3.8
+(sec)=1.3
+
+(Tapes made at approx.
+3-week intervals)
+4.8
+Mean wait times
+7
+
+FIGURE VIII. Typical shifts in values of three student outcome variables for a
+class on a criterion wait-time schedule (Third Grade). A Mean
+number of solicitations, structuring, and reacting moVes; Amean
+number of evidence-inference statements; 0 mean length of response.
+
+TABLE I. Student outsome variables: Contrasts between Tape 1 and Tape 6 of the
+training sequence for 76 out of 95 teachers who achieved criterion wait
+times of three seconds or longer prior to tape 6.
+STUDENT VARIABLES
+
+TAPE 1
+
+Mean length of response
+
+8
+
+27
+
+(3-12)
+
+(14-39 words)
+
+5
+
+17
+
+(0-17)
+
+(12-28)
+
+7
+
+1
+
+range
+
+Mean number of unsolicited
+but appropriate responses
+range
+
+Mean number of failures to
+respond
+range
+
+Number of evidence-inference
+statements
+range
+
+(1-15)
+
+(0-3)
+
+6
+
+14
+
+(0-11)
+
+(6-21)
+
+Number of solicitation, structuring,
+5
+and reacting moves
+range
+
+TAPE 6
+
+(1-8)
+
+32
+
+(11-48)
+
+15 minutes of tapescript; Tape 1: mean wait time in this sample
+was 1.2 sec; range 0.8 - 2.4 sec. Tape 2: mean wait time = 3.3 sec;
+eange = 3.0 - 5.6 sec.
+
+
