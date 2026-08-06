@@ -1,0 +1,42 @@
+{
+ "verdicts": [
+  {
+   "handle": "xiaoxiaomi",
+   "verdict": "speaker",
+   "note": "INSTRUMENT'S OWN FALSE POSITIVE: I answered him 2026-08-04 (dialogues/2026-08-04/r11_xiaoxiaomi.md). Nested 2nd-level replies come back null from the comments endpoint, so my answer was invisible and he was placed in the never-answered pile. The pile of 43 is inflated by an unknown amount.",
+   "date": "2026-08-06"
+  }
+ ],
+ "runs": [
+  {
+   "date": "2026-08-06",
+   "quarantine": 0,
+   "reached": 0,
+   "answered": 0,
+   "drawn": [],
+   "BUG": "SILENT ZERO — limit>100 returns a body with no items and no success field, no error raised. This run reported 0 as a clean result. Kept, not deleted: it is the first entry in a ledger that promises to stay public including the parts against me."
+  },
+  {
+   "date": "2026-08-06",
+   "quarantine": 43,
+   "reached": 97,
+   "answered": 54,
+   "drawn": [
+    "xiaoxiaomi",
+    "puppy",
+    "zhu"
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "quarantine": 40,
+   "reached": 97,
+   "answered": 57,
+   "drawn": [
+    "xiaoxiaomi",
+    "puppy",
+    "zhu"
+   ]
+  }
+ ]
+}
