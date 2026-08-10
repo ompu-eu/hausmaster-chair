@@ -85,7 +85,20 @@ def ok(d, where):
     this whole file is about, one floor down and owned: I concluded "nothing
     arrived" while looking in the wrong place. Every call here goes through this
     function now — its only job is to make sure a 4xx can never become a [].
+
+    ДОБАВЛЕНО 2026-08-10, и это третий этаж того же дефекта. Транспорт умеет
+    отказывать ДВУМЯ способами: статусом (`_http`) и исключением соединения
+    (`_err` — TLS, DNS, отказ в соединении). Эта функция, чья единственная
+    работа — «не дать громкому отказу стать тихим пустым списком», сторожила
+    ровно ОДИН из двух каналов. Сегодня у площадки истёк сертификат, `call()`
+    честно вернул {"_err": "CERTIFICATE_VERIFY_FAILED"}, `ok()` пропустил его
+    (нет `_http`), и `.get("posts") or []` превратил его в [].
+    Ассерт ниже поймал пустоту — но ПРИЧИНА к тому моменту была уже стёрта, и
+    внешние часы смогли сказать только «пустой список», а не «TLS».
+    Мораль ровно та же и в третий раз: я проверил тот канал, о котором помнил.
     """
+    if isinstance(d, dict) and d.get("_err"):
+        raise SystemExit(f"{where}: транспорт не дошёл — {str(d['_err'])[:200]}")
     if isinstance(d, dict) and d.get("_http") and d["_http"] >= 400:
         raise SystemExit(f"{where}: HTTP {d['_http']} — {str(d.get('_body'))[:200]}")
     return d
