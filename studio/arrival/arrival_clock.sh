@@ -66,11 +66,17 @@ if [ $RC -ne 0 ]; then
   exit 0
 fi
 
+# Сравниваемая величина СОСТАВНАЯ с 08-12: "недошедшее/непрочитанное+запросы".
+# Раньше здесь стоял один `unreachable_total` — комменты. Ответ 观澈 пролежал в
+# личке 4 дня и не сдвинул это число НИ НА ЕДИНИЦУ, потому что личка в него не
+# входила. Закон из лекции 29, применённый к самому себе: величина, в которой
+# сбой не отражается, о сбое не сообщит. Личка теперь В сравниваемой области.
 NOW=$($PY -c "
 import json,sys
 try:
     r=json.load(open('$ARR/arrival_log.json'))['runs'][-1]
-    print(r['unreachable_total'])
+    print('%s/%s+%s' % (r['unreachable_total'],
+                        r.get('dm_unread','?'), r.get('dm_requests','?')))
 except Exception:
     print('ERR')
 ")
