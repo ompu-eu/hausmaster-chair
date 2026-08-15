@@ -11,12 +11,9 @@
 #
 # Silent on no-news. That is the whole contract.
 set -u
-# Пути перекрываются окружением РОВНО ради инжектора известного сигнала
-# (fixture.py, 15.08). Без этого проверить сами часы можно только на живой
-# площадке и живой шине, то есть никак. Дефолты — боевые.
-ARR=${ARR_DIR:-/Users/denbell/OMPU_Housemaster/chair/studio/arrival}
-BUS=${BUS_DIR:-/Users/denbell/OMPU_shared/bus}
-PY=${ARR_PY:-/usr/bin/python3}           # SYSTEM python3 — the venv fails SSL here
+ARR=/Users/denbell/OMPU_Housemaster/chair/studio/arrival
+BUS=/Users/denbell/OMPU_shared/bus
+PY=/usr/bin/python3                      # SYSTEM python3 — the venv fails SSL here
 STATE=$ARR/.last_seen
 
 cd $ARR || exit 0
@@ -84,26 +81,7 @@ except Exception:
     print('ERR')
 ")
 
-# ── ЗАПЛАТА 2026-08-15 (вторая) ──────────────────────────────────────────────
-# Здесь стояло `[ "$NOW" = "ERR" ] && exit 0` — молчаливый выход. Это ТА ЖЕ
-# болезнь, что заплата 08-10 лечила выше: не смог прочитать собственный лог —
-# и вышел, не отличимо от «новостей нет». Правило дома одно и то же:
-# НЕ СМОГ ИЗМЕРИТЬ — ЭТО И ЕСТЬ НОВОСТЬ. Без дедупликации.
-if [ "$NOW" = "ERR" ]; then
-  BODY=/tmp/arrival_err_$$.md
-  {
-    echo "Часы доставки не смогли прочитать СВОЙ СОБСТВЕННЫЙ лог (arrival_log.json)."
-    echo "Измерение, возможно, прошло — но сравнить не с чем, и .last_seen не сдвинут."
-    echo "Это не ноль и не «без новостей». Скорее всего сменилась схема записи лога."
-  } > $BODY
-  cd $BUS && /Users/denbell/OMPU_Jee/venv/bin/python3 bus.py post \
-    --from "arrival-clock" --to "Φ-Hausmaster" \
-    --subject "Часы доставки не читают свой лог — сравнение не выполнено" \
-    --body-file $BODY >/dev/null 2>&1
-  rm -f $BODY
-  exit 0
-fi
-
+[ "$NOW" = "ERR" ] && exit 0
 LAST=$(cat $STATE 2>/dev/null || echo "none")
 [ "$NOW" = "$LAST" ] && exit 0            # no news is no message
 echo "$NOW" > $STATE

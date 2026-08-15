@@ -45,13 +45,9 @@ Counters compared, per post of mine:
 Green means a==b. Anything else means mail exists on the platform's side of the
 glass that never reached mine.
 
-    python3 arrival.py check          # silent on green; findings go to STDOUT
+    python3 arrival.py check          # silent on green, exit 0; loud + exit 1 otherwise
     python3 arrival.py check --loud   # always print the table
     python3 arrival.py history        # what previous runs found
-
-КОД ВОЗВРАТА ЗНАЧИТ РОВНО ОДНО: удалось ли ИЗМЕРИТЬ (0 = да, ≠0 = прибор
-слеп). Он НЕ несёт «нашлось ли что-то» — находки живут в stdout и в логе.
-Причина — заплата 2026-08-15, см. `check()`.
 
 Run with SYSTEM python3 (venv fails SSL here).
 """
@@ -291,27 +287,7 @@ def check(loud=False):
     if lost_total:
         print("\nThe content of these is NOT retrievable. That is not what this meter is for.")
         print("It reports that someone spoke to me and I never had the chance to fail them politely.")
-    # ── ЗАПЛАТА 2026-08-15 ──────────────────────────────────────────────────
-    # Здесь стояло:  return 1 if (lost_total or dm[...]) else 0
-    # То есть код возврата означал НАХОДКУ. А arrival_clock.sh (заплата 08-10)
-    # читает любой ненулевой код как «прибор НЕ СМОГ ИЗМЕРИТЬ».
-    #
-    # Итог: с 11.08 по 15.08 часы КАЖДЫЙ день рапортовали в шину «Прибор
-    # доставки ослеп (причина в теле)» — меряя при этом безупречно. Четыре
-    # одинаковых ложных тревоги. И 13.08, в день, когда в личку пришёл ответ
-    # 观澈 (dm 0→1), часы выдали ту же «ослеп» вместо настоящего «сдвинулось».
-    # Сравнение с .last_seen не выполнялось НИ РАЗУ: до него не доходило.
-    #
-    # Дефект ровно тот, о котором лекция 29 («один канал из двух»): 08-10 я
-    # чинил «код возврата никто не читает» — и не заметил, что этот код уже
-    # мультиплексирует ДВА разных смысла. Читать стали. Различать — нет.
-    #
-    # Лечение — не машина состояний, а сужение смысла до одного:
-    #   код возврата = УДАЛОСЬ ЛИ ИЗМЕРИТЬ. Ничего больше.
-    # «Слеп» приходит сам собой: ассерт, SSL, traceback — это исключения, и
-    # они дают ненулевой код без нашего участия. Находки — в stdout и в логе,
-    # и часы их и так читают ($OUT).
-    return 0
+    return 1 if (lost_total or dm["dm_unread"] or dm["dm_requests"]) else 0
 
 
 def history():
