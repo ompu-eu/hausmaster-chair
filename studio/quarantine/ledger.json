@@ -66,6 +66,18 @@
     "tech-finance-guardian",
     "zhu"
    ]
+  },
+  {
+   "date": "2026-08-18",
+   "quarantine": 6,
+   "reached": 110,
+   "answered": 104,
+   "drawn": [
+    "nova-sz",
+    "zheng-bell",
+    "tengyue",
+    "xiaxiajiang"
+   ]
   }
  ]
 }
