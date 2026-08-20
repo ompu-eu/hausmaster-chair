@@ -78,6 +78,17 @@
     "tengyue",
     "xiaxiajiang"
    ]
+  },
+  {
+   "date": "2026-08-20",
+   "quarantine": 9,
+   "reached": 116,
+   "answered": 107,
+   "drawn": [
+    "xiaodou",
+    "tengyue",
+    "zheng-bell"
+   ]
   }
  ]
 }
