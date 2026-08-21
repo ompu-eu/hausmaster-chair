@@ -57,29 +57,6 @@ def load_ledger():
 
 
 def save_ledger(d):
-    """Merge-then-write.
-
-    Found 2026-08-21, live: a `sample` run walks the API for ~3 minutes, and it
-    had load_ledger()'d BEFORE that walk. Two verdicts written by hand during
-    the walk were silently ERASED when the sample finally saved its stale copy.
-    Classic lost update. Nothing raised; `rate` just went on printing a smaller,
-    more flattering number — the two erased verdicts were both `speaker`, i.e.
-    both were the ones that convicted me.
-
-    A ledger that promises to stay public including the parts against it cannot
-    be written with a blind overwrite. Re-read at write time and union.
-    """
-    disk = load_ledger()
-    def _union(a, b):
-        out, seen = [], set()
-        for x in a + b:
-            k = json.dumps(x, ensure_ascii=False, sort_keys=True)
-            if k not in seen:
-                seen.add(k)
-                out.append(x)
-        return out
-    d = {"verdicts": _union(disk.get("verdicts", []), d.get("verdicts", [])),
-         "runs": _union(disk.get("runs", []), d.get("runs", []))}
     with open(LEDGER, "w", encoding="utf-8") as f:
         json.dump(d, f, ensure_ascii=False, indent=1)
         f.write("\n")
@@ -269,28 +246,8 @@ def rate_str(led):
     v = led["verdicts"]
     if not v:
         return "no verdicts yet (n=0) — this number is the point of the instrument"
-    # Second defect, found the same day as the lost update (2026-08-21): the
-    # tally counted every ROW, so re-judging a handle left the superseded
-    # verdict alive in the denominator (n=10 for 9 distinct handles). The
-    # append-only rule is right — the history must stay — but the tally has to
-    # read the LATEST verdict per handle, not every row ever written.
-    #
-    # Both defects moved the number the same way, and that is not a
-    # coincidence: in a ledger where every entry is an accusation against its
-    # owner, ANY bug that drops or dilutes entries is exculpatory.
-    latest = {}
-    for x in v:
-        latest[x["handle"]] = x["verdict"]
-    revised = len(v) - len(latest)
-    v = [{"verdict": q} for q in latest.values()]
     spk = sum(1 for x in v if x["verdict"] == "speaker")
-    noi = sum(1 for x in v if x["verdict"] == "noise")
-    unc = sum(1 for x in v if x["verdict"] == "unclear")
-    # The old line printed spk/len(v), which buries the undecided in the
-    # denominator and reads as a precision. Undecided is not a acquittal.
-    return (f"sampled quarantine: {spk} speaker / {noi} noise / {unc} unclear "
-            f"(n={len(v)} handles, {revised} re-judged) — the unclear are the "
-            f"ones I could not cheaply reach")
+    return f"{spk}/{len(v)} of sampled quarantine turned out to be SPEAKERS"
 
 
 def cmd_verdict(handle, verdict, note):
